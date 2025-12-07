@@ -4149,10 +4149,10 @@ webpackJsonp([3], {
         e.default = r
     },
     733: function(t, e, n) {
-        t.exports = n.p + "logo-.d480015.svg"
+        t.exports = n.p + "logo.svg"
     },
     734: function(t, e, n) {
-        t.exports = n.p + "logo.70b5d6e.svg"
+        t.exports = n.p + "logo.svg"
     },
     735: function(t, e, n) {
         function i(t) {
